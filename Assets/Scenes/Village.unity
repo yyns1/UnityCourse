@@ -1471,7 +1471,11 @@ Transform:
   m_GameObject: {fileID: 1677911337}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 0.011, y: -0.014, z: 0}
+=======
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+>>>>>>> 99048e8532560346611248820775b36db8df3979
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4849,6 +4853,7 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
     - target: {fileID: 2001758525245962574, guid: eea27b8762450f24f952905d1007adb3, type: 3}
       propertyPath: m_Size.y
       value: 1.3701384
@@ -4857,6 +4862,8 @@ PrefabInstance:
       propertyPath: m_Offset.y
       value: -0.1586808
       objectReference: {fileID: 0}
+=======
+>>>>>>> 99048e8532560346611248820775b36db8df3979
     - target: {fileID: 3934778965204030808, guid: eea27b8762450f24f952905d1007adb3, type: 3}
       propertyPath: m_Name
       value: Car
@@ -4918,6 +4925,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+<<<<<<< HEAD
+=======
+    - target: {fileID: 6184499408137118245, guid: 509315d838f598449b489a694b57d12c, type: 3}
+      propertyPath: m_SortingOrder
+      value: 4
+      objectReference: {fileID: 0}
+>>>>>>> 99048e8532560346611248820775b36db8df3979
     - target: {fileID: 7345959939149464187, guid: 509315d838f598449b489a694b57d12c, type: 3}
       propertyPath: carController
       value: 

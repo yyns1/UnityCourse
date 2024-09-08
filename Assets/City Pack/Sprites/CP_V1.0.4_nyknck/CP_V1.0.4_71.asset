@@ -15,12 +15,20 @@ MonoBehaviour:
   m_Sprite: {fileID: 3181614506731337038, guid: 2529f58c0f0f4784d925363eac539680, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
+<<<<<<< HEAD
     e00: 12
+=======
+    e00: 1
+>>>>>>> 99048e8532560346611248820775b36db8df3979
     e01: 0
     e02: 0
     e03: 0
     e10: 0
+<<<<<<< HEAD
     e11: 7
+=======
+    e11: 1
+>>>>>>> 99048e8532560346611248820775b36db8df3979
     e12: 0
     e13: 0
     e20: 0
@@ -32,5 +40,9 @@ MonoBehaviour:
     e32: 0
     e33: 1
   m_InstancedGameObject: {fileID: 0}
+<<<<<<< HEAD
   m_Flags: 14
+=======
+  m_Flags: 1
+>>>>>>> 99048e8532560346611248820775b36db8df3979
   m_ColliderType: 1

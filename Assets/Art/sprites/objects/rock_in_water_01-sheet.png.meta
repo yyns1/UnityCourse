@@ -109,6 +109,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD
   - serializedVersion: 4
     buildTarget: Android
     maxTextureSize: 2048
@@ -122,6 +123,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> 99048e8532560346611248820775b36db8df3979
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -160,8 +163,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< HEAD
     nameFileIdTable:
       rock_in_water_01-sheet_0: -2953205643087868235
+=======
+    nameFileIdTable: {}
+>>>>>>> 99048e8532560346611248820775b36db8df3979
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

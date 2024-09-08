@@ -81,7 +81,11 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
+<<<<<<< HEAD
   m_SortingOrder: 4
+=======
+  m_SortingOrder: 3
+>>>>>>> 99048e8532560346611248820775b36db8df3979
   m_Sprite: {fileID: -193332084, guid: b8dc35f16737d9943b4fcadba26d569a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -125,7 +129,11 @@ MonoBehaviour:
   m_Camera: {fileID: 0}
 --- !u!50 &1289209767770254431
 Rigidbody2D:
+<<<<<<< HEAD
   serializedVersion: 5
+=======
+  serializedVersion: 4
+>>>>>>> 99048e8532560346611248820775b36db8df3979
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -136,8 +144,13 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
+<<<<<<< HEAD
   m_LinearDamping: 0
   m_AngularDamping: 0.05
+=======
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+>>>>>>> 99048e8532560346611248820775b36db8df3979
   m_GravityScale: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -225,8 +238,11 @@ MonoBehaviour:
     maxNormalAngle: 0
   animator: {fileID: 306059780771160806}
   swordAttack: {fileID: 4564815343471246852}
+<<<<<<< HEAD
   carController: {fileID: 0}
   interactionDistance: 1.5
+=======
+>>>>>>> 99048e8532560346611248820775b36db8df3979
 --- !u!95 &306059780771160806
 Animator:
   serializedVersion: 7
