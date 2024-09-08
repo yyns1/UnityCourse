@@ -35,7 +35,7 @@ public class EnemyManager : MonoBehaviour
     void Win()
     {
         winPanel.SetActive(true);  // Kazandınız panelini göster
-        carController.StartMovingToPosition(0f);  // Arabayı X=0'a hareket ettir
+        ;  // Arabayı X=0'a hareket ettir
     }
 
     Vector2 GetRandomPosition()
